@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Links</title>
+    
+    <style>
+        body{
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        }
+
+        a {
+            color: black;
+            font-weight: bold;
+            text-decoration: solid;
+        }
+
+        a:hover{
+            color: black;
+        }
+
+        a:visited{
+            color: brown;
+        }
+        a:active{
+            color: tomato;
+        }
+
+        a::after{
+            text-decoration: none;
+            content: '[link]';
+            font-weight: bold;
+            color: silver;
+        }
+
+        .perfil{
+                background-color: silver;
+        }
+        .perfil::after{
+            content: ' * ';
+            color: black;
+        }
+
+        .perfil::before{
+            content: ' * ';
+            color: black;
+        }
+    </style>
+</head>
+<body>
+    <h1>Personalizando links</h1>
+    <ul>
+        <li><a href="https://github.com/Soumiguelito?tab=repositories" target="_blank">Repositório do Github</a></li>
+        <li><a href="https://www.linkedin.com/in/miguelpereira0815/" target="_blank" class="perfil">Linkedin</a></li>
+        <li><a href="https://www.instagram.com/soumiguel__/" target="_blank">Instagram</a></li>
+    </ul>
+</body>
+</html>

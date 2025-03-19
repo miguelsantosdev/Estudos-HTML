@@ -1,0 +1,18 @@
+body{
+    background-color: burlywood;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    text-align: justify;
+}
+h1{
+    font-family: fantasy;
+    background-color:wheat;
+}
+h2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    font-style: italic;
+}
+p{
+    text-align: justify;
+}
