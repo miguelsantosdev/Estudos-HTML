@@ -23,7 +23,7 @@ Este repositório está sendo gerenciado no Github.
 <br>
 <a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex010/ex010cev.html">Visualizar exercício 09.</a>
 <br>
-<a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex011/ex011cev.html">Visualizar exercício 10.</a> <a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex011/pag002.html">Visualizar exercício 10 pt-2.</a>
+<a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex011/ex011cev.html">Visualizar exercício 10.</a>
 <br>
 <a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex012/ex012.html">Visualizar exercicio 11.</a>
 <br>
