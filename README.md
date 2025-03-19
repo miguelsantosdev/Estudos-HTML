@@ -1,7 +1,7 @@
 # html-css
 # Estudos-HTML
 
-Repositório de estudos HTML e CSS
+Repositório de estudos do Curso de HTML e CSS da plataforma Curso em Video feito pelo mestre Gustavo Guanabara.
 
 Este repositório está sendo gerenciado no Github.
 
