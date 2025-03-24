@@ -45,18 +45,27 @@ Este repositório está sendo gerenciado no Github.
 <br>
 <a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex020/ex020cev.html">Visualizar exercicio 20.</a>
 <a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex020/hover.html"></a>
+<br>
 <a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex020/links.html"></a>
+<br>
 <a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex020/style.css"></a>
 <br>
 <a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex021/ex021cev.html">Visualizar exercicio 21.</a>
+<br>
 <a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex021/caixa02cev.html"></a>
+<br>
 <a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex021/caixa03cev.html"></a>
 <br>
 <a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex022/imagens/fundo001.html">Visualizar exercicio 22.</a>
+<br>
 <a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex022/imagens/fundo002.html"></a>
+<br>
 <a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex022/imagens/fundo003.html"></a>
+<br>
 <a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex022/imagens/fundo004.html"></a>
+<br>
 <a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex022/imagens/fundo005.html"></a>
+<br>
 <a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex022/imagens/fundo006.html"></a>
 <br>
 
