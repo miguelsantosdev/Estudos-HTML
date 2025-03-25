@@ -69,4 +69,7 @@ Este repositório está sendo gerenciado no Github.
 <br>
 <a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex022/imagens/fundo006.html">exercicio 22.</a>
 <br>
+<a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex022/imagens/fundo007.html">exercicio 22.</a>
+<br>
+
 
