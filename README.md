@@ -99,7 +99,8 @@ LISTA DE EXERCÍCIOS FEITOS DO MÓDULO 1 AO MÓDULO 3. ✅
 PROJETOS REALIZADOS 🚀
 <br>
 🟢 Projeto Android Website 
-<a href="https://miguelsantosdev.github.io/Estudos-HTML/des010ProjetoWebsite/010projetowebsite.html">  Visualizar o Projeto Android </a>
+<a href="https://miguelsantosdev.github.io/Estudos-HTML/des010ProjetoWebsite/010projetowebsite.html">Visualizar o Projeto Android </a>
 <br>
-
-
+🟢 Projeto Cordel Moderno 
+<a href="https://miguelsantosdev.github.io/Estudos-HTML/des012ProjetoCordel/projetocordel.html">Visualizar o Projeto Cordel </a>
+<br>
