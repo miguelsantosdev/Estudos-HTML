@@ -63,5 +63,4 @@ Este repositório está sendo gerenciado no Github.
 <br>
 <hr>
 <br>
-<a href="https://miguelsantosdev.github.io/des010ProjetoWebsite/010projetowebsite.html">Visualizar Projeto Website Android </a>
 
