@@ -3,10 +3,13 @@
 
 Repositório de estudos do Curso de HTML e CSS da plataforma Curso em Video feito pelo mestre Gustavo Guanabara. 👨‍💻
 <br>
+
 Este repositório está sendo gerenciado no Github. 🛰️
 <br>
+
 LISTA DE EXERCÍCIOS FEITOS DO MÓDULO 1 AO MÓDULO 3. ✅
 <br>
+
 🔘 Exercício 01
 <a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex001/indexCeV.html"> Visualizar Exercício 01.</a>
 <br>
