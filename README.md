@@ -49,6 +49,40 @@ Este repositório está sendo gerenciado no Github.
 <br>
 <a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex022/imagens/fundo001.html">Visualizar exercicio 22.</a>
 <br>
-
-
+<a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex022/imagens/fundo002.html">Visualizar exercicio 22 - Personalização 02.</a>
+<br>
+<a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex022/imagens/fundo003.html">Visualizar exercicio 22 - Personalização 03.</a>
+<br>
+<a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex022/imagens/fundo004.html">Visualizar exercicio 22 - Personalização 04.</a>
+<br>
+<a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex022/imagens/fundo005.html">Visualizar exercicio 22 - Personalização 05.</a>
+<br>
+<a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex022/imagens/fundo006.html">Visualizar exercicio 22 - Personalização 06</a>
+<br>
+<a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex022/imagens/fundo007.html">Visualizar exercicio 22 - Personalização 07</a>
+<br>
+<hr>
+<br>
+<a href="https://miguelsantosdev.github.io/des010ProjetoWebsite/010projetowebsite.html">Visualizar Projeto Website Android </a>
+<br>
+<a href="https://miguelsantosdev.github.io/Desafios CeV/des001/des001.html">Visualizar Desafio 01 </a>
+<br>
+<a href="https://miguelsantosdev.github.io/Desafios CeV/des002/des002.html">Visualizar Desafio 02 </a>
+<br>
+<a href="https://miguelsantosdev.github.io/Desafios CeV/des003/des003.html">Visualizar Desafio 03 </a>
+<br>
+<a href="https://miguelsantosdev.github.io/Desafios CeV/des005/des005.html">Visualizar Desafio 04 </a>
+<br>
+<a href="https://miguelsantosdev.github.io/Desafios CeV/des006/des006.html">Visualizar Desafio 05 </a>
+<br>
+<a href="https://miguelsantosdev.github.io/Desafios CeV/des007/des007.html">Visualizar Desafio 06 </a>
+<br>
+<a href="https://miguelsantosdev.github.io/Desafios CeV/des007/des007cevpagina2.html">Visualizar Desafio 06 - segunda página </a>
+<br>
+<a href="https://miguelsantosdev.github.io/Desafios CeV/des007/des007cevpagina3.html"> Visualizar Desafio 06 - terceira página </a>
+<br>
+<a href="https://miguelsantosdev.github.io/Desafios CeV/des007/des007cevpagina4.html"> Visualizar Desafio 06 - quarta página </a>
+<br>
+<a href="https://miguelsantosdev.github.io/Desafios CeV/des007/des007cevpagina5.html"> Visualizar Desafio 06 - quinta página </a>
+<br>
 
