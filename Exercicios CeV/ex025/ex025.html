@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mesclagem de células em uma Tabela</title>
+
+    <style>
+
+        *{
+            margin: 0;
+            padding: 0;
+        }
+
+        body{
+            background-color: snow;
+        }
+        table{
+            width: 500px;
+            font-size: 4.0em;
+            margin: auto;
+            border-collapse: collapse;
+        }
+    
+        h1{
+            font-variant: small-caps;
+            text-align: center;
+            font-size: 4.0em;
+        }
+        td{
+            border: 2px solid black;
+            text-align: center;
+            padding: auto;
+            font-family: 'Times New Roman', Times, serif;
+        }
+    </style>
+</head>
+
+<body>
+    <h1> <strong>Cell Merge</strong></h1>
+
+    <table>
+       <tr>
+            <td colspan="3">Ferrari</td>
+            
+       </tr>
+
+       <tr>
+            
+            <td>Mercedes Benz</td>
+            <td colspan="2">BMW</td>
+       </tr>
+
+       <tr>
+            <td>Nissan</td>
+            <td rowspan="2">Mazda</td>
+            <td>Toyota</td>
+       </tr>
+
+       <tr>
+            <td>Dodge</td>
+            
+            <td>Ford</td>
+       </tr>
+    </table>
+</body>
+</html>

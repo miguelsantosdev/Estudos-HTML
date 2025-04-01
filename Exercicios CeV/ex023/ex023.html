@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabelas HTML</title>
+
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            
+        }
+
+        table {
+            height: 350px;  
+            width: 350px;
+            border-collapse: collapse;
+        }
+
+        td{
+            border: 1px solid black;
+            padding: 5px;
+            text-align: center;
+            vertical-align: middle;
+        }
+
+        .numero {
+            vertical-align: bottom;
+        }
+
+        .numero2 {
+            vertical-align: top;
+        }
+
+        .numero3{
+            text-align: left;
+        }
+        .numero4{
+            text-align: right;
+        }
+        tr{
+            color: orangered;
+        }
+
+        tr.linha {
+            background-color: black;
+        }
+
+        h1 {
+            color:orangered;
+            text-shadow: 1px 1px 1px  black;
+        }
+
+        tbody > tr:nth-child(2n) {
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    <h1> TABLE HTML</h1>
+    <table>
+        <tr>
+            <td class="numero">A1</td>
+            <td>B1</td>
+            <td class="numero">C1</td>
+        </tr>
+
+        <tr class="linha">
+            <td class="numero3">A2</td>
+            <td>B2</td>
+            <td class="numero4">C2</td>
+        </tr>
+
+        <tr>
+            <td class="numero3">A3</td>
+            <td>B3</td>
+            <td class="numero4">C3</td>
+        </tr>
+
+        <tr class="linha">
+            <td class="numero2">A4</td>
+            <td>B4</td>
+            <td class="numero2">C4</td>
+        </tr>
+    </table>
+</body>
+</html>
