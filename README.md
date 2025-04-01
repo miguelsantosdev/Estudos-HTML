@@ -94,6 +94,15 @@ LISTA DE EXERCÍCIOS FEITOS DO MÓDULO 1 AO MÓDULO 3. ✅
 🔘 Exercício 22 - Personalização 07
 <a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex022/imagens/fundo007.html">Visualizar Exercicio 22 - Personalização 07</a>
 <br>
+🔘 Exercício 23
+<a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex023.html">Visualizar Exercicio 23</a>
+<br>
+🔘 Exercício 24
+<a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex024/ex024.html">Visualizar Exercicio 24</a>
+<br>
+🔘 Exercício 25
+<a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex025/ex025.html">Visualizar Exercicio 25</a>
+<br>
 <hr>
 <br>
 PROJETOS REALIZADOS 🚀
