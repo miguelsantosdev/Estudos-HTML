@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Table Excercise</title>
+
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        body {
+            background-color: plum;
+        }
+        h1{
+            background-color: rgb(202, 108, 202);
+            text-align: center;
+            color: aliceblue;
+            text-shadow: 3px 3px 3px black;
+            font-variant: small-caps;
+            padding-bottom: 10px;
+            padding-top: 10px;
+            margin-bottom: 80px;
+        }
+        table{
+            border-collapse: collapse;
+            width: 20em;
+            font-size: 2.0em;
+            text-align: center;
+            margin: auto;
+            border: 1px solid black;
+            font-variant: small-caps;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            
+        }
+        th,td{
+            border: 1px solid black;
+            padding: 10px;
+            margin: 10px;        
+            }
+        col.cname{
+            background-color: rgb(184, 14, 184);
+            
+        }
+        col.cgroup{
+            background-color: rgb(143, 72, 214);
+        }
+
+        col.cprof{
+            background-color: rgba(235, 105, 228, 0.678);
+        }
+        #responsiva{
+            overflow: auto;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Table Exercise</h1>
+    <div id="responsiva">
+        <table>
+            <colgroup>
+                <col class="cname">
+                <col class="csex">
+                <col class="cage">
+                <col class="cprof">
+        
+            </colgroup>
+            <caption>Cadastro</caption>
+                <thead>
+                    <th scope="col">Name</th>
+                    <th scope="col">Sex</th>
+                    <th scope="col">Age</th>
+                    <th scope="col">Profession</th>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td style="color: aliceblue;">Laura</td>
+                        <td>F</td>
+                        <td>24</td>
+                        <td>Professora</td>
+                    </tr>
+                    <tr>
+                        <td style="color: aliceblue;">Aline</td>
+                        <td>F</td>
+                        <td>20</td>
+                        <td>Professora de História</td>
+                    </tr>
+                    <tr>
+                        <td style="color: aliceblue;">Thayara</td>
+                        <td>F</td>
+                        <td>32</td>
+                        <td>Supervisora</td>
+                    </tr>
+                    <tr>
+                        <td style="color: aliceblue;">Gabrielly</td>
+                        <td>F</td>
+                        <td>21</td>
+                        <td>Vendedora</td>
+                    </tr>
+                </tbody>
+        </table>
+    </div>
+</body>
+</html>

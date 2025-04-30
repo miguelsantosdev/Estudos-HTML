@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TABELAS GRANDES EM HTML</title>
+
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: rgba(252, 227, 6, 0.336);
+        }
+        table{
+            border: 2px black solid;
+            width: 500px;
+            height: 500px;
+            margin: auto;
+        }
+        caption{
+            border: 1px solid black;
+            background-color: darkgrey;
+            text-align: center;
+            font-weight: bold;
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            margin-top: 60px;
+            font-size: 60px;
+            text-shadow: 2px 2px 2px black;
+            color: color-mix(in srgb-linear, whitesmoke 80%, white);
+        }
+        td{
+            border: 1px black solid;
+            height: 100px;
+            width: 100px;
+            text-align: center;
+            font-weight: 800;
+            background-color: beige;
+        }
+
+        thead > tr {
+            border: 1px black solid;
+            background-color: darkgreen;
+            color: white;
+        }
+
+        thead > tr > th {
+            position: sticky;
+            top: -1px;
+            background-color: darkgreen ;
+        }  
+        th{
+            border: 1px solid black;
+        }
+
+        h1{
+            text-align: center;
+        }
+        h1{
+            color: color-mix(in xyz-d50, orangered 80%, black 20%);
+            text-shadow: 1px 1px 1px black;
+            font-size: 70px;
+            background-color: black;
+            padding-bottom: 50px;
+            padding-top: 50px;
+            margin: 0;
+        }
+        
+        tr.rebaixado > td{
+            background-color: rgba(247, 22, 22, 0.849);
+        }
+
+        tr.libertadores > td {
+            background-color: rgba(172, 255, 47, 0.692);
+        }
+        tr.prelibertadores > td{
+            background-color: rgba(255, 166, 0, 0.829);
+        }
+        th.rodape{
+            background-color: rgba(0, 0, 0, 0.836);
+            color: white;
+        }
+        td.rodape{
+            background-color: rgba(0, 0, 0, 0.836);
+            color: white;
+        }
+
+        footer{
+            font-size: 0.8em;
+        }
+    </style>
+</head>
+<body>
+    <h1>BIG TABLE HTML</h1>
+ 
+    <table>
+        <caption>Brasileirão 2024</caption>
+        <thead>
+            <tr>
+                <th scope="col" style="width: 160px;">Clube</th>
+                <th scope="col">Pontos</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr class="libertadores">
+                <td>Botafogo</td>
+                <td>79 pontos</td>
+                <tr class="libertadores">
+                    <td>Palmeiras</td>
+                    <td>73 pontos</td>
+                </tr>
+                    <tr class="libertadores">
+                        <td>Flamengo</td>
+                        <td>70 pontos</td>
+                    </tr>
+                <tr class="libertadores">
+                    <td>Fortaleza</td>
+                    <td>68 pontos</td>
+                </tr>
+                <tr class="libertadores">
+                    <td>Internacional</td>
+                    <td>65 pontos</td>
+                </tr>
+                <tr class="libertadores">
+                    <td>São Paulo</td>
+                    <td>59 pontos</td>
+                </tr>
+                <tr class="prelibertadores">
+                    <td>Corinthians</td>
+                    <td>56 pontos</td>
+                </tr>
+                <tr class="prelibertadores">
+                    <td>Bahia</td>
+                    <td>53 pontos</td>
+                </tr>
+                <tr>
+                    <td>Cruzeiro</td>
+                    <td>52 pontos</td>
+                </tr>
+                <tr>
+                    <td>Vasco da Gama</td>
+                    <td>50 pontos</td>
+                </tr>
+                <tr>
+                    <td>Vitória</td>
+                    <td>47 pontos</td>
+                </tr>
+                <tr>
+                    <td>Atlético-MG</td>
+                    <td>47 pontos</td>
+                </tr>
+                <tr>
+                    <td>Fluminense</td>
+                    <td>46 pontos</td>
+                </tr>
+                <tr>
+                    <td>Grêmio</td>
+                    <td>45pontos</td>
+                </tr>
+                <tr>
+                    <td>Juventude</td>
+                    <td>45 pontos</td>
+                </tr>
+                <tr>
+                    <td>Bragantino</td>
+                    <td>44 pontos</td>
+                </tr>
+                <tr class="rebaixado">
+                    <td>Atlético-PR</td>
+                    <td>42 pontos</td>
+                </tr>
+                <tr class="rebaixado">
+                    <td>Criciúma</td>
+                    <td>38 pontos</td>
+                </tr>
+                <tr class="rebaixado">
+                    <td>Atlético-GO</td>
+                    <td>59 pontos</td>
+                </tr>
+                <tr class="rebaixado">
+                    <td>Cuiabá</td>
+                    <td>30 pontos</td>
+                </tr>
+            </tr>
+        </tbody>
+        <tfoot>
+            <th scope="row" class="rodape"><strong>Total de Gols no Campeonato</strong></th>
+            <td class="rodape"><strong>929 gols</strong></td>
+        </tfoot>
+    </table>
+</body>
+</html>
+
+<section>
+    <h1 style="background-color: rgba(107, 107, 103, 0.589); margin: 30px; margin-top: 80px; padding-top: 80px; color: aliceblue; text-shadow: 2px 2px 2px black;">A História do Campeonato Brasileiro</h1>
+    <p> O Campeonato Brasileiro de Futebol, também conhecido como Campeonato Brasileiro, Brasileirão e Série A, é a liga brasileira de futebol  profissional entre clubes do Brasil, sendo a principal competição futebolística no país. É por meio dela que são indicados os representantes  brasileiros para a Copa Libertadores da América (juntamente com o campeão da Copa do Brasil). O campeão do torneio também conquista uma vaga   na Supercopa do Brasil no ano seguinte.
+    
+        Ao contrário do que ocorrera em outros países da América do Sul, houve muitos desafios para que o futebol no Brasil tivesse um sistema de disputa em nível federal Além da grande dimensão geográfica do país, contribuíram para essa situação a origem e a consolidação do futebol no país a partir dos grandes centros urbanos, algo que fortaleceu uma organização por federações estaduais; as intensas rivalidades pelo poder entre dirigentes paulistas e cariocas, os maiores centros futebolísticos do Brasil; e a própria postura da Confederação Brasileira de Desportos (CBD, precursora da atual Confederação Brasileira de Futebol), a então entidade responsável pelo futebol nacional e que tinha mais interesse em arrecadar com o modelo de um Campeonato Brasileiro entre Seleções Estaduais, originalmente a nomenclatura "Campeonato Brasileiro de Futebol" pertencia a essa disputa, jogada de forma descontínua entre 1922 e 1962, além de uma edição em 1987. Em 1937, surge a primeira disputa nacional de clubes profissionais, o Torneio dos Campeões da FBF (liga de dissidentes e defensora da profissionalização), reconhecido pela CBF, em 2023, como Campeonato Brasileiro. Antes, houve o Campeonato Brasileiro de Clubes Campeões, triangular da CBD jogado em 1920, em pleno amadorismo. Apenas em 1959, como estabelecido em 1955,a CBD cria um torneio nacional regular de clubes profissionais, a Taça Brasil. Em 1967, o Torneio Rio-São Paulo foi expandido para incluir equipes de outros estados, ficando conhecido como Torneio Roberto Gomes Pedrosa, e passando a ser considerado uma competição nacional. Em 1971, a CBD iniciou um novo torneio nacional, o Campeonato Nacional de Clubes, torneio este, que foi considerado, entre 1976 e 2010, pela entidade máxima do futebol brasileiro como sendo a primeira edição do Campeonato Brasileiro. Em seus boletins oficiais entre 1971 e 1975, a CBD colocava as edições do Torneio Roberto Gomes Pedrosa/Taça de Prata em igualdade de condições com as edições posteriores do Campeonato Brasileiro, apenas mantendo os nomes próprios, excluindo esta informação a partir do boletim de 1976. O primeiro Campeonato Brasileiro oficialmente com esse nome foi realizado em 1989. Em dezembro de 2010, a CBF unificou a Taça Brasil (1959 a 1968) e o Torneio Roberto Gomes Pedrosa/Taça de Prata (1967 a 1970) aos títulos a partir de 1971.
+    
+        Uma das características históricas do Campeonato Brasileiro foi a falta de uma padronização no sistema de disputa, que mudava a cada ano, assim como as regras e o número de participantes. Por conta disso, em diversas temporadas não havia sistema de acesso e descenso para a Segunda Divisão, ao mesmo tempo em que houve edições as quais o regulamento previa, no mesmo ano, o acesso das equipes com melhor campanha para a Primeira Divisão. Somente na década de 1990, a CBF instituiu um sistema mais regular entre diferentes divisões. Dentre os vários formatos já adotados incluem-se sistema eliminatório (1959-1968) e sistemas mistos de grupos (1967-2002). A fórmula de disputa do campeonato foi padronizada somente em 2003, quando foi adotado o sistema de pontos corridos com todas as equipes se enfrentando em turno e returno. O primeiro campeão brasileiro foi o Atlético Mineiro em 1937 enquanto o Palmeiras é o clube que detém o maior número de títulos brasileiros, com doze conquistas. Desde sua edição pioneira em 1937, dezessete clubes já foram campeões brasileiros, treze por mais de uma vez, de sete estados e nove cidades diferentes, sendo que apenas o estado de São Paulo teve campeão por mais de uma cidade, três no total (Campinas, Santos e São Paulo), e apenas a cidade do Rio de Janeiro teve mais de três clubes campeões, quatro deles (Botafogo, Flamengo, Fluminense e Vasco da Gama), características estas que demonstram o nível de competitividade do campeonato.
+    
+        O Campeonato Brasileiro é uma das ligas mais fortes do mundo, sendo a liga mais valiosa do continente americano e a sétima do mundo, contando entre seus integrantes habituais com a participação do maior número de clubes detentores de títulos de "campeões mundiais", com onze campeonatos ganhos por sete clubes, o segundo em termos de quantidade de títulos da Copa Libertadores da América, com vinte e três títulos conquistados por onze clubes e ainda outros três finalistas, atrás em títulos apenas da Primera División Argentina, com 25 títulos conquistados por oito clubes e mais dois clubes finalistas. Nos últimos anos, o Brasileirão vem sendo também classificado como um dos campeonatos nacionais mais valiosos do mundo. Por conta disso, a Série A do Campeonato Brasileiro é reconhecida como uma das ligas nacionais mais equilibradas do mundo. De acordo com o ranking da Federação Internacional de História e Estatísticas do Futebol (IFFHS, na sua sigla em inglês), é um dos cinco campeonatos mais fortes do mundo — no relatório de 2020, esteve somente atrás da Premier League inglesa. É ainda o torneio de futebol mais visto no continente americano e um dos mais expostos internacionalmente, transmitido para mais de 150 países.</p>
+    
+    <p>
+        A criação da CBD ajudaria a organizar de maneira oficial o selecionado do Brasil que representaria o país em competições, como foi o caso da primeira edição do Campeonato Sul-Americano de Futebol (atual Copa América) em 1916.Outra missão institucional da nova confederação seria a promoção de torneios nacionais em território brasileiro, algo que, no entanto, ficou impossibilitado pela falta de recursos dessa entidade e dos constantes atritos entre as poderosas ligas cariocas e paulistas, os dois grandes centros futebolísticos no país.O jornal O Estado de S. Paulo de 29 de março de 1920, divulgou que o triangular daquele ano era um campeonato nacional, representado pelas forças máximas da associação, e que, após a vitória sobre o Fluminense, o Paulistano confirmou o seu título de "campeão brasileiro de futebol". Em plena época do amadorismo, depois de vencer os gaúchos e cariocas no Campeonato Brasileiro de Clubes Campeões, a diretoria do clube paulista voltou para casa festejando os "campeões brasileiros".
+    
+        Em 1922, a CBD organiza o primeiro Campeonato Brasileiro de Seleções Estaduais (na época referido como Campeonato Brasileiro de Futebol), um torneio que reunia os selecionados das entidades federativas filiadas à confederação. Bem sucedido, esse campeonato tornou-se o principal projeto da confederação em nível federal para o futebol no país.A CBD organizou vinte e seis edições da disputa (entre 1922 e 1962), a FBF, três (1933 a 1935), e a CBF (sucessora da CBD), a última (1987).
+    
+        Novas tensões surgiram no futebol brasileiro durante a década de 1930, desta vez motivadas pelas disputas em torno do amadorismo e do profissionalismo na modalidade. Frente à postura da CBD, favorável a manutenção da veia amadora, um grupo de clubes paulistas (vinculados à Associação Paulista de Esportes Atléticos) e cariocas (ligados à Liga Carioca de Futebol) rompeu com a confederação para criar a Federação Brasileira de Football (FBF, sem relação com a primeira criada em 1915).Para se afirmar nacionalmente ante à CBD, uma das primeiras iniciativas da FBF foi a organização de um campeonato brasileiro de clubes de futebol profissional.Foi realizado um campeonato em 1933 contando apenas com equipes das associações do Distrito Federal (atual município do Rio de Janeiro) e de São Paulo, as duas únicas formalmente filiadas à FBF. Portanto, este torneio foi a origem do Torneio dos Campeões de 1937 e do Rio-São Paulo. Este último firmou-se, ao longo da década de 1950 e início de 1960, como uma dos mais tradicionais competições do futebol brasileiro. O Torneio Rio-São Paulo de 1933 também ficou marcado por ser a primeira competição da era do profissionalismo do futebol brasileiro, sendo o Palestra Italia tratado pelo jornal Correio de S. Paulo como "campeão paulista e nacional de profissionais", no ano em que a FBF ainda estava realizando "o primeiro Campeonato Brasileiro de seleções profissionais". No entanto, a edição seguinte do Rio-SP foi interrompida ainda na fase classificatória, devido às disputas políticas, com clubes trocando de federações, em meio ao processo de profissionalização do futebol no Brasil. O Torneio Rio-São Paulo voltou a ser realizado somente em 1940, mas dessa vez pelas federações dos dois estados. A competição novamente não chegou ao fim, sendo interrompida após um turno disputado, enquanto seu regulamento previa a realização de dois turnos. Assim, a CBD deu o torneio como inacabado, sem nenhum clube ter se sagrado campeão. Apenas a partir de 1950 que o Torneio Rio-São Paulo passou a ser disputado anualmente.
+    </p>
+        <h3>
+            <i>
+                <footer>Matéria retirada do site <a href="https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol" target="_blank"><u>Wikipédia</u>.</a></footer>
+            </i>
+        </h3>
+</section>

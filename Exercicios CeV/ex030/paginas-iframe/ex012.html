@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tamanho de Mídias em HTML5</title>
+</head>
+<body>
+    <h1>Imagens Dinâmicas</h1>
+    <p>É recomendável sempre adaptar as suas imagens do site de acordo com as telas que o usuário irá acessar, desktop, mobile ou    tablet. No HTML5, é possível fazer essa adaptação do tamanho da imagem de acordo com o tamanho da tela.</p>
+
+    <picture>
+
+        <source media="(max-width: 750px)" srcset="imagens/gimpfoto.png" type="image/png">
+        <source media="(max-width: 1000px)" srcset="imagens/fotogimp3.png" type="image/png">
+        <img src="imagens/fotogimp2.png" alt="foto dinâmica">
+
+    </picture>
+
+    <h1>Reproduzindo audio</h1>
+    <p>Vamos reproduzir um audio em HTML5.</p>
+
+    <audio src="midia/Ba Dum Tss!.mp3" controls autoplay></audio>
+   
+</body>
+</html>

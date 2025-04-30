@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario 2</title>
+    <style>
+        *{
+            background-color: cornsilk;
+            margin: 0;
+            padding: 0;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <h1>Teste de Formulário</h1>
+    <br>
+    <form action="cadastro.php" method="post" autocomplete="on">
+        <p> 
+            <label for="iusuario">Usuario: </label>
+            <input type="text" name="usuario" id="iusuario" required minlength="4" maxlength="18" size="20" autocomplete="username">
+        </p>
+        <br>
+        <p>
+            <label for="isenha">Senha: </label>
+            <input type="password" name="senha" id="isenha" required minlength="8" maxlength="14" size="20" placeholder="mínimo 8 caracteres" autocomplete="current-password">
+        </p>
+        <br>
+        <p>
+            <input type="submit" value="Entrar">
+            <input type="reset" value="Limpar">
+        </p>
+    </form>
+</body>
+</html>
