@@ -114,3 +114,5 @@ PROJETOS REALIZADOS 🚀
 🟢 Projeto Cordel Moderno 
 <a href="https://miguelsantosdev.github.io/Estudos-HTML/des012ProjetoCordel/projetocordel.html">Visualizar o Projeto Cordel </a>
 <br>
+🟢 Projeto Redes Sociais
+<a href="https://miguelsantosdev.github.io/Projeto-redes-sociais-repositorio/des015ProjetoRedesSociais/projetorsindex.html">Acessar Projeto Redes Sociais</a>
