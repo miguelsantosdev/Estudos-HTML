@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=
+    , initial-scale=1.0">
+    <title>Output</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+            text-align: center;
+            background-color: lavender;
+        }
+        h1{
+            background-color: thistle;
+            margin: 15px;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <fieldset>
+        <legend>HTML5 - MÓDULO 4</legend>
+        <h1>Output</h1>
+        <form action="cadastro.php" method="get" autocomplete="on">
+            <p>
+                <label for="numero1"> Digite o primeiro numero: </label>
+                <input type="number" name="numero 1" id="numero1" min="0" max="10" required oninput="somar.innerHTML = Number(numero1.value) + Number(numero2.value)">
+            </p>
+            <p>
+                <label for="numero2"> Digite o segundo numero: </label>
+                <input type="number" name="numero 2" id="numero2" min="0" max="10" required oninput="somar.innerHTML= Number(numero1.value) + Number(numero2.value)">
+            </p>
+            <p>
+                <label for="somar">Soma: </label>
+                <output name="soma" id="somar">0</output>
+            </p>
+            <p>
+                <input type="submit" value="Enviar">
+                <input type="reset" value="Limpar">
+            </p>
+        </form>
+    </fieldset>
+      <fieldset>
+          <form action="cadastro.php" method="get" autocomplete="on">
+            <h1>Output II</h1>
+            <p>
+                <label for="inumber">Number: </label>
+                <input type="range" name="Number1" id="inumber" min="0" max="100" value="0" oninput="value1.innerHTML = Number(inumber.value)">
+                <output id="value1">0</output>
+            </p>
+            <p>
+                <input type="submit" value="Submit">
+                <input type="reset" value="Reset">
+            </p>
+          </form>
+      </fieldset>
+      <fieldset>
+            <form action="cadastro.php">
+                <h1>Output III</h1>
+                <p>
+                    <label for="year">YEAR OF BIRTH: </label>
+                    <input type="number" name="birth" id="year" min="1925" max="2025" value="#" oninput="calcAge()">
+                </p>
+                <p>
+                    <label for="age">YOUR AGE IS: </label>
+                    <output id="age">0</output>
+                </p>
+                <p>
+                    <input type="submit" value="SUBMIT">
+                    <input type="Reset" value="RESET">
+                </p>
+            </form>
+            <script>
+                function calcAge() {
+                    let yearsold = new Date().getFullYear()
+                    age.innerHTML = Number(yearsold) - Number(year.value)
+                }
+            </script>
+      </fieldset>
+</body>
+</html>
