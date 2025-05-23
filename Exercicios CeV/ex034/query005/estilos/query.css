@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+/* Media para outros dispositivos */ 
+
+/* tela menor*/
+@media screen and (min-width: 769px) {
+    span#symbol {
+        display: none; /* remove o menu hamburguer */
+    }
+    menu{
+        display: block; /* exibe as opções do menu novamente */
+    }
+}
+
+/* tela maior 
+@media screen and (min-width: 1025) {
+    span#symbol {
+        display: none;
+    }
+    menu{
+          display: inline-block;
+    }
+
+}
+*/

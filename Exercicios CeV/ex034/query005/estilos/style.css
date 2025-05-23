@@ -1,0 +1,180 @@
+@charset "UTF-8";
+
+/* CSS geral - Versão Mobile */
+/* Reset e configuração inicial */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    background-color: rgba(172, 255, 47, 0.849);
+    color: black;
+}
+
+/* Banner centralizado */
+
+.banner {
+    width: 90%;
+    max-width: 1700px;
+    margin: auto;
+}
+
+/* Cabeçalho */
+
+header{
+    background-color: limegreen;
+    color: white;
+    padding: 30px ;
+}
+
+.header-banner{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+header h1{
+    margin-left: 20px;
+}
+
+header nav ul {
+    list-style: none;
+    display: flex;
+    margin-right: 20px;
+}
+
+header nav ul li {
+    margin-left: 20px;
+}
+
+menu {
+    display: none;
+}
+
+li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.7s;
+}
+
+li a:hover {
+    color: orangered;
+}
+
+.material-symbols-outlined {
+        font-variation-settings:
+        'FILL' 0,
+        'wght' 400,
+        'GRAD' 0,
+        'opsz' 24;
+        background-color: green;
+        border-radius: 5px;
+        padding: 2px;
+        margin-left: 20px;
+        }
+
+.material-symbols-outlined:hover{
+    background-color: orangered;
+    color: white ;
+    cursor: pointer;
+    transition: background 0.4s;
+}
+
+
+/* Seção items */
+
+.home {
+    background: url(imagens/decoracao\ casa\ II.jpg) no-repeat center center/cover;
+    color: white;
+    text-shadow: 1px 2px 1px black;
+    font-style: bold;
+    padding: 100px;
+    text-align: center;
+}
+
+.home h2{
+    font-size: 3.5em;
+    margin-bottom: 30px;
+}
+
+.button{
+    display: inline-block;
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    padding: 10px 10px;
+    border-radius: 5px;
+    transition: background 0.5s;
+    text-decoration: none;
+}
+
+.button:hover{
+    background: orangered;
+   
+}
+
+/* Items e serviços */
+
+.seçao{
+    padding: 50px ;
+    background-color: snow ;
+}
+
+.seçao h2 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.items{
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.item{
+    background-color: yellowgreen;
+    padding: 20px;
+    margin: 10px;
+    flex: 1 1 30%;
+    text-align: center;
+    border-radius: 5px;
+    transition: transform 0.3s;
+}
+
+.item:hover{
+    transform: translateY(-5px);
+    background-color: orangered;
+    color: white;
+    transform: 0.5ms ease-in;
+    cursor: pointer;
+    transition: background 0.5s;
+}
+
+/* Rodapé do site */
+
+footer{
+    background: grey;
+    color: white;
+    text-align: center;
+    padding: 10px ;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+/*Responsividade */
+@media (max-width: 768px) {
+    .header-banner {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .items{
+        flex-direction: column;
+        align-items: center;
+    }
+}
