@@ -103,6 +103,64 @@ LISTA DE EXERCÍCIOS FEITOS DO MÓDULO 1 AO MÓDULO 3. ✅
 🔘 Exercício 25
 <a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex025/ex025.html">Visualizar Exercicio 25</a>
 <br>
+🔘 Exercício 27
+<a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex027/ex027cev.html">Visualizar exercicio 27.</a>
+<br>
+🔘 Exercício 28
+<a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex028/iframe001">Visualizar exercicio 28.</a>
+<br>
+🔘 Exercício 29
+<a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex029/pag001.html">Visualizar exercicio 29.</a>
+<br>
+🔘 Exercício 29 - 1
+<a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex029/iframe002">Visualizar exercicio 29 - iframe </a>
+<br>
+🔘 Exercício 30
+<a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex030/iframe003.html">Visualizar exercicio 30.</a>
+<br>
+🔘 Exercício 30 - 1
+<a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex030/iframe004.html">Visualizar exercicio 30 - iframe</a>
+<br>
+🔘 Exercício 31
+<a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex031/formulario.html">Visualizar exercicio 31</a>
+<br>
+🔘 Exercício 31 - 1
+<a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex031/form02.html">Visualizar exercicio 31 - formulario 02 </a>
+<br>
+🔘 Exercício 31 - 2
+<a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex031/form03.html">Visualizar exercicio 31 - formulario 03</a>
+<br>
+🔘 Exercício 31 - 3
+<a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex031/form04.html">Visualizar exercicio 31 - formulario 04.</a>
+<br>
+🔘 Exercício 31 - 4
+<a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex031/form05.html">Visualizar exercicio 31 - formulario 05</a>
+<br>
+🔘 Exercício 31 - 5
+<a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex031/form006.html">Visualizar exercicio 31 - formulario 06</a>
+<br>
+🔘 Exercício 32
+<a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex032/ex032.html">Visualizar exercicio 32.</a>
+<br>
+🔘 Exercício 33
+<a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex033/ex033.html">Visualizar exercicio 33.</a>
+<br>
+🔘 Exercício 34
+<a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex034/query001/index001.html">Visualizar exercicio 34.</a>
+<br>
+🔘 Exercício 34 - 1
+<a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex034/query002/index.html">Visualizar exercicio 34 - query 2.</a>
+<br>
+🔘 Exercício 34 - 2
+<a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex034/query003/index.html">Visualizar exercicio 34 - query 3</a>
+<br>
+🔘 Exercício 34 - 3
+<a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex034/query004/index.html">Visualizar exercicio 34 - query 4.</a>
+<br>
+🔘 Exercício 34 - 4
+<a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex034/query005/index.html">Visualizar exercicio 34 - query 5.</a>
+<br>
+<br>
 <hr>
 <br>
 PROJETOS REALIZADOS 🚀
