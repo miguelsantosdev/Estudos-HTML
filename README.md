@@ -160,6 +160,9 @@ LISTA DE EXERCÍCIOS FEITOS DO MÓDULO 1 AO MÓDULO 3. ✅
 🔘 Exercício 34 - 4
 <a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex034/query005/index.html">Visualizar exercicio 34 - query 5.</a>
 <br>
+🔘 Exercício 35
+<a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex035/index.html">Visualizar exercicio 35.</a>
+<br>
 <br>
 <hr>
 <br>
