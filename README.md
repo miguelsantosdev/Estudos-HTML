@@ -163,8 +163,32 @@ LISTA DE EXERCÍCIOS FEITOS DO MÓDULO 1 AO MÓDULO 3. ✅
 🔘 Exercício 35
 <a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex035/index.html">Visualizar exercicio 35.</a>
 <br>
+🔘 Exercício 36
+<a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex037/index.html">Visualizar exercicio 36.</a>
+<br>
+🔘 Exercício 37
+<a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex038/index.html">Visualizar exercicio 37.</a>
+<br>
+🔘 Exercício 38
+<a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex039/index.html">Visualizar exercicio 38.</a>
+<br>
+🔘 Exercício 39
+<a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex040/index.html">Visualizar exercicio 39.</a>
+<br>
+🔘 Exercício 40
+<a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex041/index.html">Visualizar exercicio 40.</a>
+<br>
+🔘 Exercício 41
+<a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex042/index.html">Visualizar exercicio 41.</a>
+<br>
+🔘 Exercício 42
+<a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex043ProjetoAlugacar/index.html">Visualizar exercicio 42.</a>
+<br>
+🔘 Exercício 43
+<a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex044QI/index.html">Visualizar exercicio 43.</a>
 <br>
 <hr>
+<br>
 <br>
 PROJETOS REALIZADOS 🚀
 <br>
