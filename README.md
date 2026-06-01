@@ -7,7 +7,7 @@ Repositório de estudos do Curso de HTML e CSS da plataforma Curso em Video feit
 Este repositório está sendo gerenciado no Github. 🛰️
 <br>
 
-LISTA DE EXERCÍCIOS FEITOS DO MÓDULO 1 AO MÓDULO 3. ✅
+LISTA DE EXERCÍCIOS FEITOS DO MÓDULO 1 AO MÓDULO 5. ✅
 <br>
 
 🔘 Exercício 01
