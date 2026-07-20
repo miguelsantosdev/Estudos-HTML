@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GRID II</title>
+
+    <style>
+        div.container{
+            border: 5px solid rgb(204, 10, 10);
+            height: 100vh;
+            display: grid;
+            grid-template: repeat(2, auto) / repeat(2, auto);
+            gap: 2px;  
+            place-items: center center;
+            place-content: space-between / center;
+        }
+  
+        div.item{
+            border: 2px solid darkred;
+            padding: 8px;
+        }
+
+        body{
+            background-color: bisque;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="item">A</div>
+        <div class="item">B</div>
+        <div class="item">C</div>
+        <div class="item">D</div>
+        <div class="item">E</div>
+        <div class="item">F</div>
+        <div class="item">G</div>
+        <div class="item">H</div>
+    </div>    
+</body>
+</html>

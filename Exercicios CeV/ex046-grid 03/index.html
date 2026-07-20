@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GRID III</title>
+
+    <style>
+        div.container{
+            border: 5px solid rgb(204, 10, 10);
+            display: grid;
+            gap: 20px;  
+            grid-template-rows: 150px 150px 150px;
+            grid-template-columns: 1fr 1fr 1fr;
+            grid-auto-flow: row;
+            place-items: start center ;
+            place-content: start center;
+        }
+  
+        div.item{
+            border: 2px solid darkred;
+            padding: 8px;
+        }
+
+        body{
+            background-color: bisque;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="item">A</div>
+        <div class="item">B</div>
+        <div class="item">C</div>
+        <div class="item">D</div>
+        <div class="item">E</div>
+        <div class="item">F</div>
+        <div class="item">G</div>
+        <div class="item">H</div>
+        <div class="item">I</div>
+        <div class="item">J</div>
+        <div class="item">K</div>
+        <div class="item">L</div>
+    </div>    
+</body>
+</html>
