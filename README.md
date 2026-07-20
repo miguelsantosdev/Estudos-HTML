@@ -187,6 +187,18 @@ LISTA DE EXERCÍCIOS FEITOS DO MÓDULO 1 AO MÓDULO 5. ✅
 🔘 Exercício 43
 <a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex044QI/index.html">Visualizar exercicio 43.</a>
 <br>
+🔘 Exercício 44
+<a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex046-grid/index.html">Visualizar exercicio 44.</a>
+<br>
+🔘 Exercício 45
+<a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex046-grid 02/index.html">Visualizar exercicio 45.</a>
+<br>
+🔘 Exercício 46
+<a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex046-grid 03/index.html">Visualizar exercicio 46.</a>
+<br>
+🔘 Exercício 47
+<a href="https://miguelsantosdev.github.io/Estudos-HTML/Exercicios CeV/ex047/index.html">Visualizar exercicio 47.</a>
+<br>
 <hr>
 <br>
 <br>
